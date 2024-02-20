@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Marek-SWK
+- 👀 I’m interested in Programming in EV3 Language
+- Currently I am programming Snake on the EV3
+- 📫 You can reach me at my e-mail: macasmarek96@gmail.com
