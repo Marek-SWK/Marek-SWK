@@ -1,2 +1,2 @@
-👋 Hi, I’m @Marek-SWK
-https://marek-server.com
+- 👋 Hi, I’m @Marek-SWK
+- https://marek-server.com
